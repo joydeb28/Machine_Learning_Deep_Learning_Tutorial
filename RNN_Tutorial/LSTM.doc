@@ -1,0 +1,7 @@
+Learn Gate is for learning from events that recently happened.
+
+Forget Gate is for selectively forgetting things from the Long-Term Memory.
+
+Remember Gate is adding the events that recently happened and things the network already knows to create the updated Long-Term Memory.
+
+Use Gate is for using the updated Long-Term memory and Short-Term Memory from the previous time step to get the updated Short-Term Memory.
